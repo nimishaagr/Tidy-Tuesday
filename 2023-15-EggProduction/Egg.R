@@ -7,10 +7,10 @@ eggproduction <- tuesdata$`egg-production`
 cagefreepercentages <- tuesdata$`cage-free-percentages`
 
 #writing to local project folder to avoid too many Github API calls
-# write.csv(eggproduction, "eggproduction.csv")
-# write.csv(cagefreepercentages, "cagefreepercentages.csv")
-# eggproduction <- read.csv("eggproduction.csv")
-# cagefreepercentages <- read.csv("cagefreepercentages.csv")
+write.csv(eggproduction, "eggproduction.csv")
+write.csv(cagefreepercentages, "cagefreepercentages.csv")
+eggproduction <- read.csv("eggproduction.csv")
+cagefreepercentages <- read.csv("cagefreepercentages.csv")
 
 ###############################################################################
 #Data overview
