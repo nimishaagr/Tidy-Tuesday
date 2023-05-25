@@ -8,12 +8,12 @@ species <- tuesdata$species
 surveys <- tuesdata$surveys
 
 #writing to local project folder to avoid too many Github API calls
-# write.csv(plots, "plots.csv")
-# write.csv(species, "species.csv")
-# write.csv(surveys, "surveys.csv")
-# plots <- read.csv("plots.csv")
-# species <- read.csv("species.csv")
-# surveys <- read.csv("surveys.csv")
+write.csv(plots, "plots.csv")
+write.csv(species, "species.csv")
+write.csv(surveys, "surveys.csv")
+plots <- read.csv("plots.csv")
+species <- read.csv("species.csv")
+surveys <- read.csv("surveys.csv")
 
 ###############################################################################
 #Data overview
