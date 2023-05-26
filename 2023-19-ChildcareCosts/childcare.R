@@ -414,7 +414,7 @@ d.2018 <- image_read("2018.png")
 
 img <- c(d.2008,d.2009,d.2010,d.2011,d.2012,d.2013,d.2014,d.2015,d.2016,d.2017,d.2018)
 my.animation<-image_animate(image_scale(img, "1400x1000"), fps = 1, dispose = "previous", loop=1)
-image_write_gif(my.animation, "emp-spread.gif", loop=F, delay=1/3)
+image_write_gif(my.animation, "emp-spread.gif", loop=T, delay=1/3)
 
 ###############################################################################
 
