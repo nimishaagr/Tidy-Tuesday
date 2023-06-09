@@ -1,6 +1,9 @@
 # Tidy Tuesday 
 Following is a compilation of my work with #TidyTuesday datasets (link: https://github.com/rfordatascience/tidytuesday). The weekly folders contain the .r file used to generate the visualizations as well as the viz images.
 
+## 2023-Week 20: Tornados
+![](https://github.com/nimishaagr/Tidy-Tuesday/blob/main/2023-20-Tornados/mags.jpg)
+
 ## 2023-Week 19: Childcare Costs
 ![](https://github.com/nimishaagr/Tidy-Tuesday/blob/main/2023-19-ChildcareCosts/utah.jpg)
 ![](https://github.com/nimishaagr/Tidy-Tuesday/blob/main/2023-19-ChildcareCosts/emp-spread.gif)
