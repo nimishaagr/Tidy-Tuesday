@@ -8,20 +8,29 @@ Following is a compilation of my work with #TidyTuesday datasets (link: https://
 ## 2023-Week 19: Childcare Costs
 
 ![](/2023-19-ChildcareCosts/utah.jpg)
+
 ![](/2023-19-ChildcareCosts/emp-spread.gif)
 
 ## 2023-Week 18: The Portal Project
 
 ![](/2023-18-PortalProject/big_heavy_rodents.jpg)
+
 ![](/2023-18-PortalProject/hfl_wgt.jpg)
+
 ![](/2023-18-PortalProject/spcies_density_trtmt.jpg)
+
 ![](/2023-18-PortalProject/species_pregnant.jpg)
 
 ## 2023-Week 15: US Egg Production
 
 ![](/2023-15-EggProduction/cagefree_hg.jpg)
+
 ![](/2023-15-EggProduction/all_hatchtable.jpg)
+
 ![](/2023-15-EggProduction/hens_sankey.jpg)
+
 ![](/2023-15-EggProduction/hens_eggs_division.jpg)
+
 ![](/2023-15-EggProduction/hens_months.jpg)
+
 ![](/2023-15-EggProduction/eggs_months.jpg)
