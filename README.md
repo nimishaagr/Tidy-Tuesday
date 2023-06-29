@@ -3,11 +3,10 @@ Following is a compilation of my work with #TidyTuesday datasets (link: https://
 
 ## 2023-Week 3: Art History
 
-Developed a Shiny Dashboard, hosted on shinyapps.io 
-https://nimishaagr.shinyapps.io/ArtHistory/
+Developed a Shiny Dashboard, hosted on shinyapps.io: https://nimishaagr.shinyapps.io/ArtHistory/
 
 Screenshot:
-<img width="1437" alt="image" src="https://github.com/nimishaagr/Tidy-Tuesday/assets/21362459/1885fb0f-7420-4bae-bb3c-7627797d3b2a">
+<img width="1437" alt="image" src="https://github.com/nimishaagr/Tidy-Tuesday/assets/21362459/dec45872-697f-4339-8579-36018b0dc51b">
 
 ## 2023-Week 20: Tornados
 
