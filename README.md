@@ -3,7 +3,7 @@ Following is a compilation of my work with #TidyTuesday datasets (link: https://
 
 ## 2023-Week 3: Art History
 
-Developed a Shiny Dashboard, hosted on shinyapps.io
+Developed a Shiny Dashboard, hosted on shinyapps.io 
 https://nimishaagr.shinyapps.io/ArtHistory/
 
 Screenshot:
