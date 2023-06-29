@@ -1,6 +1,11 @@
 # Tidy Tuesday 
 Following is a compilation of my work with #TidyTuesday datasets (link: https://github.com/rfordatascience/tidytuesday). The weekly folders contain the .r file used to generate the visualizations as well as the viz images.
 
+## 2023-Week 3: Art History
+
+Developed a Shiny Dashboard, hosted on shinyapps.io as below:
+![](https://nimishaagr.shinyapps.io/ArtHistory/)
+
 ## 2023-Week 20: Tornados
 
 ![](/2023-20-Tornados/mags.jpg)
