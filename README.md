@@ -1,15 +1,6 @@
 # Tidy Tuesday 
 Following is a compilation of my work with #TidyTuesday datasets (link: https://github.com/rfordatascience/tidytuesday). The weekly folders contain the code file(s) used to generate the visualizations as well as the viz images.
 
-## 2023-Week 29: GPT Detectors
-
-Developed a Looker Studio report, available at: https://lookerstudio.google.com/reporting/4c189f96-6246-42d8-8a7b-8f367b151ac3
-
-Screenshots:
-![](/2023-29-GPTDetectors/screenshot1.png)
-
-![](/2023-29-GPTDetectors/screenshot2.png)
-
 ## 2023-Week 3: Art History
 
 Developed a Shiny Dashboard, hosted on shinyapps.io: https://nimishaagr.shinyapps.io/ArtHistory/
