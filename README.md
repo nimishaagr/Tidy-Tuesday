@@ -1,5 +1,11 @@
 # Tidy Tuesday 
-Following is a compilation of my work with #TidyTuesday datasets (link: https://github.com/rfordatascience/tidytuesday). The weekly folders contain the .r file used to generate the visualizations as well as the viz images.
+Following is a compilation of my work with #TidyTuesday datasets (link: https://github.com/rfordatascience/tidytuesday). The weekly folders contain the code file(s) used to generate the visualizations as well as the viz images.
+
+## 2023-Week 29: GPT Detectors
+
+Developed a Looker Studio report:
+
+(https://lookerstudio.google.com/embed/reporting/4c189f96-6246-42d8-8a7b-8f367b151ac3/page/p_uhal5csbed)
 
 ## 2023-Week 3: Art History
 
