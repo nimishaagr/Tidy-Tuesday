@@ -15,7 +15,7 @@ Screenshots:
 Developed a Shiny Dashboard, hosted on shinyapps.io: https://nimishaagr.shinyapps.io/ArtHistory/
 
 Screenshot:
-![](/2023-03-ArtHistory/screenshot.jpg)
+![](/2023-03-ArtHistory/screenshot.png)
 
 ## 2023-Week 20: Tornados
 
