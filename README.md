@@ -5,7 +5,7 @@ Following is a compilation of my work with #TidyTuesday datasets (link: https://
 
 Developed a Looker Studio report:
 
-https://lookerstudio.google.com/embed/reporting/4c189f96-6246-42d8-8a7b-8f367b151ac3/page/p_uhal5csbed
+<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/4c189f96-6246-42d8-8a7b-8f367b151ac3/page/p_uhal5csbed" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 ## 2023-Week 3: Art History
 
