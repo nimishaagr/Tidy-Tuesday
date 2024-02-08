@@ -3,16 +3,19 @@ Following is a compilation of my work with #TidyTuesday datasets (link: https://
 
 ## 2023-Week 29: GPT Detectors
 
-Developed a Looker Studio report:
+Developed a Looker Studio report, available at: https://lookerstudio.google.com/reporting/4c189f96-6246-42d8-8a7b-8f367b151ac3
 
-<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/4c189f96-6246-42d8-8a7b-8f367b151ac3/page/p_uhal5csbed" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+Screenshots:
+![](/2023-29-GPTDetectors/screenshot1.jpg)
+
+![](/2023-29-GPTDetectors/screenshot2.jpg)
 
 ## 2023-Week 3: Art History
 
 Developed a Shiny Dashboard, hosted on shinyapps.io: https://nimishaagr.shinyapps.io/ArtHistory/
 
 Screenshot:
-<img width="1437" alt="image" src="https://github.com/nimishaagr/Tidy-Tuesday/assets/21362459/dec45872-697f-4339-8579-36018b0dc51b">
+![](/2023-03-ArtHistory/screenshot.jpg)
 
 ## 2023-Week 20: Tornados
 
